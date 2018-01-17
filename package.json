@@ -1,0 +1,15 @@
+{
+  "name": "hangmancli",
+  "version": "1.0.0",
+  "description": "Hangman Command Line Interface Game",
+  "main": "HangmanCLI.js",
+  "dependencies": {
+    "inquirer": "^5.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "PDS",
+  "license": "MIT"
+}
